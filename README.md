@@ -4,11 +4,14 @@ Hi 👋 My name is Sam Shock
 Web Developer
 -------------
 
-I've been on my coding journey since 2021, focusing on the front-end. I have a strong understanding of React, and I'm currently working on integrating my knowledge of that into learning Express.js and SQL databases!
+Self-taught dev since 2021 with a focus on front-end—React is my go-to. Right now, I'm all about building fun, useful projects and sharpening my skills one repo at a time.
 
-* 🌍  I'm based in the Philadelphia area
-* ✉️  You can contact me [here](mailto:sam.shock924@gmail.com)
-* 🧠  I'm learning Express and SQL!
+- 🌍 Based in the Philadelphia area
+- ✉️ Reach me [here](mailto:sam.shock924@gmail.com)
+- 🛠️ Currently building: a motivational quote app + revamping my personal portfolio
+- 🎯 Goal: break into the tech industry and create cool things with chill people
+
+Thanks for stopping by — more projects and updates coming soon 🚀
 
 ### Skills
 
